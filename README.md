@@ -1,0 +1,2 @@
+# rgc
+Random color generator
