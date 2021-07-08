@@ -1,2 +1,2 @@
 # rgc
-Random color generator
+Generate Random Colors with Hex Values
